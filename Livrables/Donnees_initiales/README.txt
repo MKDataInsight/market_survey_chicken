@@ -1,1 +1,1 @@
-Données socio-économiques issues de FAOSTAT (ONU) et de la CEPII(gouvernement français)
+Données socio-économiques issues de FAOSTAT (ONU) et de la CEPII (gouvernement français)
